@@ -27,4 +27,6 @@ class Dashboard extends Component {
     }
 }
 
+hello
+
 export default Dashboard;
